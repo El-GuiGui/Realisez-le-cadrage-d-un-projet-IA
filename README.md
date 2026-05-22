@@ -1,4 +1,4 @@
-# Cadrage projet — Application mobile IA Fashion-Insta
+# Cadrage projet : Application mobile IA Fashion-Insta
 
 Cadrage d'un projet IA pour le compte d'une entreprise de prêt-à-porter (cas fictif).
 L'application mobile recommande des articles vestimentaires à partir des photos
@@ -122,10 +122,10 @@ validation par un comité éthique interne avant chaque mise en production.
 
 L'ordre de lecture recommandé pour comprendre le projet :
 
-1. **Présentation** (`03_presentation_comex.pptx`) — vue d'ensemble
-2. **Backlog** (`01_backlog_user_stories.xlsx`) — le périmètre fonctionnel
-3. **Tableur de cadrage** (`02_tableur_cadrage.xlsx`) — pour creuser chiffrage, planning, RGPD et risques
-4. **Schéma d'architecture** (`04_schema_architecture.png`) — la cible technique
+1. **Présentation** (`03_presentation_comex.pptx`) -> vue d'ensemble
+2. **Backlog** (`01_backlog_user_stories.xlsx`) -> le périmètre fonctionnel
+3. **Tableur de cadrage** (`02_tableur_cadrage.xlsx`) -> pour creuser chiffrage, planning, RGPD et risques
+4. **Schéma d'architecture** (`04_schema_architecture.png`) -> la cible technique
 
 ---
 
